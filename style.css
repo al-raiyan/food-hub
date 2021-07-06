@@ -69,3 +69,7 @@ h2{
     box-shadow: 20px 20px 40px rgb(230, 96, 48);
     border-radius: 20px;
 }
+#footer{
+    background-color: black;
+    padding: 2%;
+}
